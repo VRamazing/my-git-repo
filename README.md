@@ -1,5 +1,5 @@
 # my-git-repo
-Basic git repository 2
+Basic git repository 
 
 
-Nice
+Nice repository
