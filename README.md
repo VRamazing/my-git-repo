@@ -1,2 +1,3 @@
 # my-git-repo
-Basic
+Basic git repository 
+Nice repository
